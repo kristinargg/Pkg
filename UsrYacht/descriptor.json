@@ -7,6 +7,11 @@
     "ProjectPath": "Files/UsrYacht.csproj",
     "DependsOn": [
       {
+        "UId": "06d9ef10-51d8-122c-8933-9212e84236c9",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBase"
+      },
+      {
         "UId": "3a71e376-9ac3-3049-c62b-9c43b9abe054",
         "PackageVersion": "7.8.0",
         "Name": "CrtCoreBase",
