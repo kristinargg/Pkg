@@ -24,6 +24,7 @@
 			<Item Name="LocalizableStrings.LengthCannotBeLess.Value" Value="Length cannot be less than 3m" />
 			<Item Name="LocalizableStrings.ManagerEmail_caption.Value" Value="Email address" />
 			<Item Name="LocalizableStrings.ManagerEmail_label.Value" Value="Manager Email" />
+			<Item Name="LocalizableStrings.MultiSelect_m1rthb8_label.Value" Value="Categories" />
 			<Item Name="LocalizableStrings.PassengersCountCannotBeLess.Value" Value="Passengers cannot be less than 1" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50" />
 			<Item Name="LocalizableStrings.PushMe_caption.Value" Value="Push Me !" />

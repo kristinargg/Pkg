@@ -2,12 +2,13 @@
   "Descriptor": {
     "UId": "67e45d98-31fc-49df-a2e0-ecebc5078222",
     "Name": "UsrCity",
-    "ModifiedOnUtc": "\/Date(1761535072000)\/",
+    "ModifiedOnUtc": "\/Date(1761535073000)\/",
     "Parent": {
       "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
       "Name": "BaseLookup"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "City"
+    "Caption": "City",
+    "DependsOn": []
   }
 }

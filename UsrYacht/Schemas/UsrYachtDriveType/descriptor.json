@@ -2,12 +2,13 @@
   "Descriptor": {
     "UId": "f3df06b8-ac8e-4a97-b75d-2045ab1c46ca",
     "Name": "UsrYachtDriveType",
-    "ModifiedOnUtc": "\/Date(1761282532000)\/",
+    "ModifiedOnUtc": "\/Date(1761282533000)\/",
     "Parent": {
       "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
       "Name": "BaseLookup"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Yacht Drive Type"
+    "Caption": "Yacht Drive Type",
+    "DependsOn": []
   }
 }

@@ -2,12 +2,13 @@
   "Descriptor": {
     "UId": "35026149-bfaf-4c62-8b29-ccde1238e408",
     "Name": "UsrCountry",
-    "ModifiedOnUtc": "\/Date(1761535102000)\/",
+    "ModifiedOnUtc": "\/Date(1761535103000)\/",
     "Parent": {
       "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
       "Name": "BaseLookup"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Country"
+    "Caption": "Country",
+    "DependsOn": []
   }
 }
